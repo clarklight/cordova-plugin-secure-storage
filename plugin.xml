@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.clark.plugins.secure"
-    version="2.0.0">
+    version="2.0.1">
 
     <name>SecureStorage</name>
     <author>Crypho AS</author>
